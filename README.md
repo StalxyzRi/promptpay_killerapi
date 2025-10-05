@@ -11,3 +11,4 @@ copy this
 ```
 https://api.apukilz.net/pomptpay_skill/caht
 ```
+and enjoy using this API 🥰
