@@ -7,7 +7,8 @@ First : you have to buy or custom by you self in monthy plan
 
 if you want to buy preset : [Click Here👆](https://config.xyz)
 
-<img width="1318" height="625" alt="image" src="https://github.com/user-attachments/assets/e2cc18b1-324c-43be-b610-bf1570029814" />
+<img width="1478" height="620" alt="image" src="https://github.com/user-attachments/assets/809ec565-c1bf-4119-842a-966316ddbf95" />
+
 
 
 
