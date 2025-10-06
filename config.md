@@ -16,6 +16,7 @@ Free Config and VIP Config can use only Monthy Plan
 Premium Config can use in Life Time and Yearly Plan ✨
 
 
+this is the example.
 ```json
 {
   "meta": {
